@@ -64,17 +64,32 @@ The dashboard provides valuable insights into:
 - Ratings analysis
 - Restaurant comparison
 
-### Page 4 – Delivery Insights
+
+### Page 4 – Advanced Insights
+
+- Revenue growth analysis
+- Time intelligence KPIs
+- Monthly and yearly trends
+- Dynamic KPI analysis
+
+---
+
+### Page 5 – Delivery And Operations
 
 - Delivery time analysis
 - Late delivery percentage
 - Cancellation trends
+- Operational efficiency metrics
 
-### Page 5 – Time Intelligence
+---
 
-- Revenue YTD
-- Revenue Growth %
-- Monthly performance trends
+### Page 6 – Restaurant Details
+
+- Individual restaurant insights
+- Restaurant performance breakdown
+- Order and revenue details
+- Detailed rating analysis
+
 
 ---
 
@@ -113,9 +128,9 @@ The project includes:
 
 ## Files Included
 
-- **Food-Delivery-Analytics.pbix** → Power BI dashboard
+- **Zomato.pbix** → Power BI dashboard
 - **dataset.xlsx / csv** → Dataset
-- **dashboard-preview.png** → Dashboard screenshot
+- **image.png,image1.png,image2.png** → Dashboard screenshots
 - **DAX_Measures.txt** → DAX calculations and measures
 - **README.md** → Project documentation
 
